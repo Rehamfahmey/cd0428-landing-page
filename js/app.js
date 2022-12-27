@@ -39,10 +39,13 @@
 */
 
 // build the nav
-
+document.addElementListener('dom Content Loaded.buildNav')
+functionbuildNav()
 
 // Add class 'active' to section when near top of viewport
-
+constall=document.querySelectorAll(;section')
+for(const sectionofsections){constlistItem=documrnt.Create Element('li');
+                             listItem.innerHTML='<ahref="#${section.id}"class="menu-link">
 
 // Scroll to anchor ID using scrollTO event
 

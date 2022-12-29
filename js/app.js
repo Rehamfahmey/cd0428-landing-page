@@ -20,7 +20,9 @@
 
 /**
  * Define Global Variables
- * 
+ * constlist=document.GetElementById("navbar--list");
+ constsections=document.QuerySelectorAll("section");
+ 
 */
 
 
